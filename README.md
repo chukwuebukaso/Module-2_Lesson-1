@@ -1,2 +1,2 @@
-# Module-2_Lesson-1
+# StuternPractice
 This repository is for all my Stutern practices and assignments
